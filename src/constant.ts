@@ -14,7 +14,7 @@ export const GARMIN_USERNAME_DEFAULT = 'jxlfq810889951@qq.com';
 export const GARMIN_PASSWORD_DEFAULT = 'JXlfq@8520917';
 // 佳明国际区区账号及密码
 export const GARMIN_GLOBAL_USERNAME_DEFAULT = 'jxlfq810889951@qq.com';
-export const GARMIN_GLOBAL_PASSWORD_DEFAULT = 'jxlfq@8520917';
+export const GARMIN_GLOBAL_PASSWORD_DEFAULT = 'JXlfq@8520917';
 // 佳明迁移数量配置
 export const GARMIN_MIGRATE_NUM_DEFAULT = '100';
 export const GARMIN_MIGRATE_START_DEFAULT = '0';
